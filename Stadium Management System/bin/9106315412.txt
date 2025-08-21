@@ -1,0 +1,40 @@
+Date - 23/12/2024      Time - 09:42:31
+1 new Message : 
+     Your Mobile No. Registered At Narendra Modi Cricket Stadium Web.
+
+Date - 23/12/2024      Time - 09:44:15
+1 new Message : 
+   From Narendar Modi Stadium Web : 
+   Total Payment For Book Ticket is 20000.0 Rs.
+   Your OTP for Payment Confimation is 400991
+
+Date - 23/12/2024      Time - 09:44:51
+1 new Message : 
+   From Your Bank : 
+   Rs. 20000.0 Debited From Bank Account Through UPI.
+
+Date - 23/12/2024      Time - 09:44:51
+1 new Message : 
+   From Narendar Modi Stadium Web : 
+   Congratulation, Your Tickets Are Booked.
+   You Can SMS Ticket's Full Details From Narendra Modi Stadium Web.
+   Thank You.
+
+Date - 23/12/2024      Time - 09:44:58
+1 new Message : 
+   From Narendar Modi Stadium Web : 
+       TICKET'S DETAILS  
+   Ticket ID : 19
+   Ticket Booked By : UrmikBhai
+   Match Name : IND vs ENG
+   Match Date : 2024-05-11
+   Match Time : 03:30:00
+   Stand Name : C
+   Ticket Price : 5000
+   Booked Tickets : 4
+   Total Amount Paid : 20000
+   Method Of Payment : UPI
+
+Date - 23/12/2024      Time - 09:45:55
+1 new Message : 
+   Your OTP for Delete User is 93674
